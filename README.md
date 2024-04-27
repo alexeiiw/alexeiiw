@@ -1,3 +1,3 @@
 # Alex García
 ## Developer
-### Compaq Code
+### AGCode
